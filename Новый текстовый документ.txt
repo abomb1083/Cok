@@ -1,5 +1,3 @@
- double result = Math.Log(Math.Cos(x)) / Math.Log(1 + x * x);
-
 using System;
 
 class Program
